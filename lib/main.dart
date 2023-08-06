@@ -176,7 +176,7 @@ Page resource error:
       //   ],
       // ),
       body: SafeArea(child: WebViewWidget(controller: _controller)),
-      floatingActionButton: favoriteButton(),
+      // floatingActionButton: favoriteButton(),
     );
   }
 
